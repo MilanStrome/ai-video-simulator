@@ -1,0 +1,10 @@
+streamlit
+torch
+opencv-python-headless
+Pillow
+easyocr
+scikit-learn
+pandas
+numpy
+scikit-image
+git+https://github.com/openai/CLIP.git
